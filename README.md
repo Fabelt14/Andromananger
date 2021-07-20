@@ -2,7 +2,7 @@
 
 <div align="center" markdown="1">
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: BSL v2](https://img.shields.io/badge/License-BSLv2-blue.svg)](https://www.gnu.org/licenses/bsl-2.0)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/Fabelt14/Andromanager/graphs/commit-activity)
 [![!#/bin/bash](https://img.shields.io/badge/-%23!%2Fbin%2Fbash-1f425f.svg)](https://www.gnu.org/software/bash/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabelt14%Andromanager&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://ashwini.codes)
